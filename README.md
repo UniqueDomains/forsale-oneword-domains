@@ -64,14 +64,14 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| simple.forsale    | available | $19.99    | $52.99        | 128            | 48     | 6      | name.com                                    |
+| simple.forsale    | available | $19.99    | $52.99        | 128            | 49     | 6      | name.com                                    |
 | space.forsale     | resell    | —         | —             | 80             | 61     | 5      | GoDaddy Online Services Cayman Islands Ltd. |
 | cloud.forsale     | premium   | $128.70   | $128.70       | 70             | 59     | 5      | namecheap                                   |
 | mix.forsale       | available | $19.99    | $52.99        | 66             | 45     | 3      | name.com                                    |
 | pay.forsale       | resell    | —         | —             | 84             | 60     | 3      | Sav.com, LLC                                |
 | ace.forsale       | premium   | $123.75   | $123.75       | 88             | 57     | 3      | name.com                                    |
-| forge.forsale     | available | $19.99    | $52.99        | 62             | 45     | 5      | name.com                                    |
-| free.forsale      | resell    | —         | —             | 88             | 59     | 4      | Automattic Inc.                             |
+| forge.forsale     | available | $19.99    | $52.99        | 62             | 44     | 5      | name.com                                    |
+| free.forsale      | resell    | —         | —             | 88             | 57     | 4      | Automattic Inc.                             |
 | live.forsale      | premium   | $75       | $75           | 108            | 56     | 4      | name.com                                    |
 | wizard.forsale    | available | $19.99    | $52.99        | 118            | 43     | 6      | name.com                                    |
 | data.forsale      | resell    | —         | —             | 84             | 56     | 4      | Porkbun LLC                                 |
