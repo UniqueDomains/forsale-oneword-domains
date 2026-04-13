@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .forsale one-word domains from Uni
 
 **Public extract:** 9,720 rows · **Live catalog:** 9,720 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/forsale`  
 **Best for:** founders, investors, studios
 
@@ -67,10 +67,10 @@ print(df.head())
 | simple.forsale    | available | $19.99    | $52.99        | 128            | 48     | 6      | name.com                                    |
 | space.forsale     | resell    | —         | —             | 80             | 61     | 5      | GoDaddy Online Services Cayman Islands Ltd. |
 | cloud.forsale     | premium   | $128.70   | $128.70       | 70             | 59     | 5      | namecheap                                   |
-| forge.forsale     | available | $19.99    | $52.99        | 62             | 45     | 5      | name.com                                    |
+| mix.forsale       | available | $19.99    | $52.99        | 66             | 45     | 3      | name.com                                    |
 | pay.forsale       | resell    | —         | —             | 84             | 60     | 3      | Sav.com, LLC                                |
 | ace.forsale       | premium   | $123.75   | $123.75       | 88             | 57     | 3      | name.com                                    |
-| mix.forsale       | available | $19.99    | $52.99        | 66             | 44     | 3      | name.com                                    |
+| forge.forsale     | available | $19.99    | $52.99        | 62             | 45     | 5      | name.com                                    |
 | free.forsale      | resell    | —         | —             | 88             | 59     | 4      | Automattic Inc.                             |
 | live.forsale      | premium   | $75       | $75           | 108            | 56     | 4      | name.com                                    |
 | wizard.forsale    | available | $19.99    | $52.99        | 118            | 43     | 6      | name.com                                    |
@@ -78,10 +78,10 @@ print(df.head())
 | good.forsale      | premium   | $123.75   | $123.75       | 82             | 55     | 4      | name.com                                    |
 | strategy.forsale  | available | $47.48    | —             | 74             | 43     | 8      | namecheap                                   |
 | real.forsale      | resell    | —         | —             | 78             | 49     | 4      | Sav.com, LLC - 4                            |
-| alpha.forsale     | premium   | $123.75   | $123.75       | 90             | 54     | 5      | name.com                                    |
+| zero.forsale      | premium   | $82.50    | $82.50        | 112            | 53     | 4      | name.com                                    |
 | deep.forsale      | available | $19.99    | $52.99        | 72             | 43     | 4      | name.com                                    |
 | network.forsale   | resell    | —         | —             | 90             | 48     | 7      | Sav.com, LLC                                |
-| zero.forsale      | premium   | $82.50    | $82.50        | 112            | 53     | 4      | name.com                                    |
+| alpha.forsale     | premium   | $123.75   | $123.75       | 90             | 53     | 5      | name.com                                    |
 | agile.forsale     | available | $19.99    | $52.99        | 92             | 41     | 5      | name.com                                    |
 | community.forsale | resell    | —         | —             | 76             | 47     | 9      | Sav.com, LLC - 13                           |
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FORSALE One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FORSALE One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
