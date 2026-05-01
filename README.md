@@ -1,10 +1,10 @@
-# Available .FORSALE One-Word Domains (12,077)
+# Available .FORSALE One-Word Domains (12,641)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C077%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C641%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .forsale one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,077 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,641 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,077 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,641 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/forsale`  
 **Best for:** founders, investors, studios
 
@@ -68,19 +68,19 @@ print(df.head())
 | roses.forsale        | resell    | —         | —             | 68             | 16     | 5      | 1API GmbH |
 | jobs.forsale         | premium   | $1,250    | —             | 79             | 42     | 4      | name.com  |
 | matcha.forsale       | available | $19.99    | —             | 86             | 39     | 6      | name.com  |
-| events.forsale       | premium   | $123.75   | —             | 68             | 37     | 6      | name.com  |
-| WiFi.forsale         | available | $47.48    | —             | 83             | 37     | 5      | namecheap |
 | ideas.forsale        | premium   | $75       | —             | 62             | 37     | 5      | name.com  |
-| neuroscience.forsale | available | $19.99    | —             | 80             | 37     | 12     | name.com  |
+| WiFi.forsale         | available | $47.48    | —             | 83             | 37     | 5      | namecheap |
 | aliens.forsale       | premium   | $118.80   | $118.80       | 56             | 35     | 6      | namesilo  |
-| etc.forsale          | available | $19.99    | —             | 58             | 34     | 3      | name.com  |
+| neuroscience.forsale | available | $19.99    | —             | 80             | 37     | 12     | name.com  |
 | partners.forsale     | premium   | $1,875    | —             | 61             | 32     | 8      | name.com  |
-| payments.forsale     | available | $19.99    | —             | 58             | 33     | 8      | name.com  |
+| etc.forsale          | available | $19.99    | —             | 58             | 34     | 3      | name.com  |
 | trends.forsale       | premium   | $82.50    | —             | 60             | 32     | 6      | name.com  |
-| letsgo.forsale       | available | $19.99    | —             | 57             | 31     | 7      | name.com  |
+| payments.forsale     | available | $19.99    | —             | 58             | 33     | 8      | name.com  |
 | spaces.forsale       | premium   | $123.75   | —             | 54             | 30     | 6      | name.com  |
-| popup.forsale        | available | $19.99    | —             | 84             | 29     | 6      | name.com  |
+| letsgo.forsale       | available | $19.99    | —             | 57             | 31     | 7      | name.com  |
 | blocks.forsale       | premium   | $123.75   | —             | 53             | 29     | 6      | name.com  |
+| popup.forsale        | available | $19.99    | —             | 84             | 29     | 6      | name.com  |
+| cams.forsale         | premium   | $500      | —             | 52             | 29     | 4      | name.com  |
 | commonground.forsale | available | $19.99    | —             | 74             | 28     | 13     | name.com  |
 | photos.forsale       | premium   | $1,250    | —             | 54             | 28     | 6      | name.com  |
 | has.forsale          | available | $19.99    | —             | 60             | 26     | 3      | name.com  |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,077 live domains                              |
+| 1,000-row public sample | 12,641 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FORSALE One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FORSALE One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
