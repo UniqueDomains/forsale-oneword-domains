@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .forsale one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,643 domains · **Median ask:** $50.25 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/forsale`  
 **Best for:** founders, investors, studios
 
@@ -68,7 +68,7 @@ print(df.head())
 | roses.forsale        | resell    | —         | —             | 68             | 16     | 5      | 1API GmbH |
 | jobs.forsale         | premium   | $1,250    | —             | 79             | 42     | 4      | name.com  |
 | matcha.forsale       | available | $19.99    | —             | 86             | 39     | 6      | name.com  |
-| ideas.forsale        | premium   | $75       | —             | 62             | 37     | 5      | name.com  |
+| ideas.forsale        | premium   | $75       | —             | 62             | 36     | 5      | name.com  |
 | WiFi.forsale         | available | $47.48    | —             | 83             | 37     | 5      | namecheap |
 | aliens.forsale       | premium   | $118.80   | $118.80       | 56             | 35     | 6      | namesilo  |
 | neuroscience.forsale | available | $19.99    | —             | 80             | 37     | 12     | name.com  |
@@ -79,7 +79,7 @@ print(df.head())
 | spaces.forsale       | premium   | $123.75   | —             | 54             | 30     | 6      | name.com  |
 | letsgo.forsale       | available | $19.99    | —             | 57             | 31     | 7      | name.com  |
 | blocks.forsale       | premium   | $123.75   | —             | 53             | 29     | 6      | name.com  |
-| popup.forsale        | available | $19.99    | —             | 84             | 29     | 6      | name.com  |
+| popup.forsale        | available | $19.99    | —             | 84             | 28     | 6      | name.com  |
 | cams.forsale         | premium   | $500      | —             | 52             | 29     | 4      | name.com  |
 | commonground.forsale | available | $19.99    | —             | 74             | 28     | 13     | name.com  |
 | photos.forsale       | premium   | $1,250    | —             | 54             | 28     | 6      | name.com  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FORSALE One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FORSALE One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
