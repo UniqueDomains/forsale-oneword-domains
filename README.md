@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .forsale one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,643 domains · **Median ask:** $50.25 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/forsale`  
 **Best for:** founders, investors, studios
 
@@ -72,10 +72,10 @@ print(df.head())
 | WiFi.forsale         | available | $47.48    | —             | 83             | 37     | 5      | namecheap |
 | aliens.forsale       | premium   | $118.80   | $118.80       | 56             | 35     | 6      | namesilo  |
 | neuroscience.forsale | available | $19.99    | —             | 80             | 37     | 12     | name.com  |
-| partners.forsale     | premium   | $1,875    | —             | 61             | 32     | 8      | name.com  |
-| etc.forsale          | available | $19.99    | —             | 58             | 34     | 3      | name.com  |
 | trends.forsale       | premium   | $82.50    | —             | 60             | 32     | 6      | name.com  |
 | payments.forsale     | available | $19.99    | —             | 58             | 33     | 8      | name.com  |
+| partners.forsale     | premium   | $1,875    | —             | 61             | 31     | 8      | name.com  |
+| etc.forsale          | available | $19.99    | —             | 58             | 32     | 3      | name.com  |
 | spaces.forsale       | premium   | $123.75   | —             | 54             | 30     | 6      | name.com  |
 | letsgo.forsale       | available | $19.99    | —             | 57             | 31     | 7      | name.com  |
 | blocks.forsale       | premium   | $123.75   | —             | 53             | 29     | 6      | name.com  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FORSALE One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FORSALE One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
