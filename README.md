@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .forsale one-word domains f
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,643 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,643 domains · **Median ask:** $50.25 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,643 domains · **Median ask:** $52.34 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/forsale`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/forsale`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .FORSALE one-word doma
 
 ### Files
 
-- `forsale.csv` — public CSV extract (1,000 rows)
-- `forsale.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `forsale.csv`, public CSV extract (1,000 rows)
+- `forsale.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| shortcuts.forsale    | available | $19.99    | —             | 48             | 41     | 10     | name.com  |
-| roses.forsale        | resell    | —         | —             | 68             | 16     | 5      | 1API GmbH |
-| jobs.forsale         | premium   | $1,250    | —             | 79             | 42     | 4      | name.com  |
-| matcha.forsale       | available | $19.99    | —             | 86             | 39     | 6      | name.com  |
-| ideas.forsale        | premium   | $75       | —             | 62             | 36     | 5      | name.com  |
-| WiFi.forsale         | available | $47.48    | —             | 83             | 37     | 5      | namecheap |
-| aliens.forsale       | premium   | $118.80   | $118.80       | 56             | 35     | 6      | namesilo  |
-| neuroscience.forsale | available | $19.99    | —             | 80             | 37     | 12     | name.com  |
-| trends.forsale       | premium   | $82.50    | —             | 60             | 32     | 6      | name.com  |
-| payments.forsale     | available | $19.99    | —             | 58             | 33     | 8      | name.com  |
-| partners.forsale     | premium   | $1,875    | —             | 61             | 31     | 8      | name.com  |
-| etc.forsale          | available | $19.99    | —             | 58             | 32     | 3      | name.com  |
-| spaces.forsale       | premium   | $123.75   | —             | 54             | 30     | 6      | name.com  |
-| letsgo.forsale       | available | $19.99    | —             | 57             | 31     | 7      | name.com  |
-| blocks.forsale       | premium   | $123.75   | —             | 53             | 29     | 6      | name.com  |
-| popup.forsale        | available | $19.99    | —             | 84             | 28     | 6      | name.com  |
-| cams.forsale         | premium   | $500      | —             | 52             | 29     | 4      | name.com  |
-| commonground.forsale | available | $19.99    | —             | 74             | 28     | 13     | name.com  |
-| photos.forsale       | premium   | $1,250    | —             | 54             | 28     | 6      | name.com  |
-| has.forsale          | available | $19.99    | —             | 60             | 26     | 3      | name.com  |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
+| CNN.forsale     | available | $19.99    | —             | high           | low    | 3      | name.com     |
+| network.forsale | resell    | —         | —             | high           | medium | 7      | Sav.com, LLC |
+| bus.forsale     | premium   | $500      | —             | high           | low    | 3      | name.com     |
+| die.forsale     | available | $19.99    | —             | medium         | low    | 3      | name.com     |
+| dad.forsale     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo     |
+| ear.forsale     | available | $19.99    | —             | high           | low    | 3      | name.com     |
+| gym.forsale     | premium   | $123.75   | —             | high           | low    | 3      | name.com     |
+| flu.forsale     | available | $19.99    | —             | medium         | low    | 3      | name.com     |
+| jay.forsale     | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo     |
+| had.forsale     | available | $19.99    | —             | high           | low    | 3      | name.com     |
+| lit.forsale     | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo     |
+| hug.forsale     | available | $19.99    | —             | high           | low    | 3      | name.com     |
+| pad.forsale     | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo     |
+| ive.forsale     | available | $19.99    | —             | medium         | low    | 3      | name.com     |
+| two.forsale     | premium   | $82.50    | $82.50        | high           | low    | 3      | name.com     |
+| let.forsale     | available | $19.99    | —             | high           | low    | 3      | name.com     |
+| usa.forsale     | premium   | $1,875    | —             | high           | medium | 3      | name.com     |
+| lol.forsale     | available | $19.99    | —             | high           | low    | 3      | name.com     |
+| wig.forsale     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo     |
+| NWO.forsale     | available | $19.99    | —             | medium         | low    | 3      | name.com     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .forsale domains. The set leans toward plain-language commercial words, category terms, and broad adjectives such as budget.forsale, luxury.forsale, travel.forsale, calm.forsale, and abundant.forsale. For founders, the strongest picks are usually the words that read cleanly, match an obvious offer, and feel memorable without explanation. For investors, the key question is whether the word has direct commercial meaning and enough buyer relevance to justify the ask. When comparing these domains, focus on word clarity, category fit, pricing discipline, and whether the term feels naturally aligned with a sales-oriented extension.
+This list contains 12,643 one-word domain names registered under the .forsale extension, each explicitly marked for sale by its current owner. Names range from everyday nouns and phrases — such as backyard.forsale, roastbeef.forsale, and gettogether.forsale — to brand-style terms like Trex.forsale and Scotchtape.forsale. The median asking price across the set is near $52, positioning most of these domains as low-cost, direct-to-buy assets rather than premium holdings. Because the .forsale extension signals seller intent by design, every name here is presumed available for direct purchase, simplifying evaluation for both quick brand pickups and small-scale portfolio additions.
 
-- Prioritize words with obvious commercial intent
-- Compare broad category terms vs. abstract adjectives
-- Use price discipline: median ask is 50.26
-- Watch for terms that may raise trademark questions
+- 12,643 one-word .forsale domains, updated daily
+- Median asking price near $52 across the set
+- Explicit for-sale extension signals direct buyer intent
+- Mix of everyday words and brand-style names, e.g., Trex.forsale
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FORSALE One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FORSALE One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
