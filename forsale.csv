@@ -1,7 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 d54d6078-071f-47bb-a132-9eb69b84d73b,whatisthat.forsale,available,19.99,,low,low,12,name.com,,,
 ee74d9cc-c7d1-4c69-bebe-dc52a88fed93,nationaldebt.forsale,available,19.99,,low,low,13,name.com,,,
-ff8dcc0d-e24c-4750-8b1a-ff08336be65c,accounted.forsale,available,19.99,,medium,low,9,name.com,,,
+ff8dcc0d-e24c-4750-8b1a-ff08336be65c,accounted.forsale,available,19.99,,low,low,9,name.com,,,
 a319e91a-0fe3-4ec4-9979-c26d90332c32,despondent.forsale,available,19.99,52.99,medium,low,10,name.com,,,
 25517712-4b76-4e7c-a17d-47d7ff07c6f1,ascitic.forsale,available,13.98,47.48,low,low,7,namecheap,,,07/08/2026 01:06
 08fb916f-acb8-443b-b91f-119e8ceaa6b8,chain.forsale,premium,118.8,118.8,medium,low,5,namesilo,,,
@@ -25,7 +25,7 @@ daea1565-3d70-47c7-9bc0-b808aab0ca52,whitepepper.forsale,available,19.99,,low,lo
 f51bc798-34be-4690-ab88-99b6f1a39538,suspense.forsale,premium,123.75,,high,low,8,name.com,,,
 26c444e2-f0a0-4abf-8b94-877555865856,unbeatable.forsale,available,19.99,,high,low,10,name.com,,,
 2a2c6ee3-3f3a-4b15-9ea5-32492381a364,annulated.forsale,available,13.98,47.48,low,low,9,namecheap,,,
-6fd36ff6-a22f-4a29-82b2-4e7e41b45de8,angelic.forsale,available,19.99,,high,low,7,name.com,,,
+6fd36ff6-a22f-4a29-82b2-4e7e41b45de8,angelic.forsale,available,13.98,47.48,medium,low,7,namecheap,,,22/09/2026 04:25
 b7608c44-12e7-42a1-8fbf-c932436297b2,agamous.forsale,available,13.98,47.48,low,low,7,namecheap,,,
 dfc1bc50-ec9a-4e08-ba81-2ef0dfdae7a8,consent.forsale,available,13.98,47.48,medium,low,7,namecheap,,,08/09/2026 13:17
 b206b9bf-156e-41f5-b539-bbeb2cd16ed1,evening.forsale,available,19.99,,high,low,7,name.com,,,
@@ -45,7 +45,7 @@ dca64863-d8f2-44e1-991b-12d88808565f,forced.forsale,available,19.99,52.99,medium
 d1069bb3-2655-405c-b140-acfcc8e2dd67,incompletesentence.forsale,available,19.99,,medium,low,19,name.com,,,
 c8a1d45b-cfd9-4a3f-9dc1-c075efd7f02d,wordis.forsale,available,19.99,,low,low,7,name.com,,,
 ccbc5de8-728b-4df6-8499-d369c28489a6,proceed.forsale,available,19.99,,high,low,7,name.com,,,
-935b0773-d9f7-4b6b-b064-bf4b801a5f24,selfless.forsale,available,19.99,52.99,high,low,8,name.com,,,
+935b0773-d9f7-4b6b-b064-bf4b801a5f24,selfless.forsale,available,16.99,36.99,medium,low,8,namesilo,,,22/09/2026 02:51
 3860d6a6-6d8d-4bfc-9905-1063224320d1,irestmycase.forsale,available,19.99,,medium,low,14,name.com,,,
 479520b3-c1ae-48e1-98ed-3b80e9373d63,knowledgeable.forsale,available,19.99,,high,low,13,name.com,,,
 52f79966-2711-4567-a0e4-81d960a3b44e,banana.forsale,available,19.99,,high,medium,6,name.com,,,
@@ -68,7 +68,7 @@ cc00c68e-b7bf-46aa-ac0b-037608967b92,riseabove.forsale,available,19.99,,medium,l
 60dd3f87-8439-4eab-abaa-cb7727f812de,willingness.forsale,available,19.99,,medium,low,11,name.com,,,
 cc079730-324a-4a22-afcc-abb5377e185c,travelagency.forsale,available,19.99,,high,low,13,name.com,,,
 b2a4432b-5797-41e9-8268-18fb2c2870c1,justice.forsale,premium,118.8,118.8,medium,low,7,namesilo,,,19/09/2026 10:07
-39a95364-560c-4ae8-9821-fe293b35ea99,answering.forsale,available,19.99,,high,low,9,name.com,,,
+39a95364-560c-4ae8-9821-fe293b35ea99,answering.forsale,available,16.99,36.99,medium,low,9,namesilo,,,22/09/2026 05:38
 2d791cfb-e236-4744-aff2-859d73beebfc,spiritual.forsale,available,13.98,47.48,medium,low,9,namecheap,,,06/08/2026 05:42
 2665f6be-b51a-46f1-b1f9-8e6cad263e92,planetarium.forsale,available,19.99,,medium,low,11,name.com,,,
 0a99229c-9b33-4840-9d62-6586439f07be,inkind.forsale,available,13.98,47.48,low,low,7,namecheap,,,15/09/2026 04:38
@@ -88,7 +88,7 @@ c4ab79f2-c5c4-4011-bdab-2f5d35f5b47d,baccate.forsale,available,13.98,47.48,low,l
 aa3e97b4-cf39-4857-8202-d1cc119be90f,warp.forsale,available,19.99,,high,medium,4,name.com,,,
 df9de670-34c0-4430-94dc-37a81fe32f44,dragrace.forsale,available,19.99,,high,low,9,name.com,,,
 6bf1d6e2-8f0d-4cf9-9c3a-d6f09074e0a3,disk.forsale,available,19.99,,high,low,4,name.com,,,
-1ad144da-421f-4e82-a0ce-f3eafbf9b324,absolutely.forsale,available,19.99,,high,low,10,name.com,,,
+1ad144da-421f-4e82-a0ce-f3eafbf9b324,absolutely.forsale,available,19.99,,medium,low,10,name.com,,,
 c6390d0c-0d74-4b00-a68b-55dbe39ed956,normallywhite.forsale,available,19.99,,low,low,14,name.com,,,
 392b2867-881e-4f1d-a975-b797dc20a18c,exclusively.forsale,available,19.99,,medium,low,11,name.com,,,
 7a0eefb3-2a3c-415c-a929-7a578eea249f,pertinent.forsale,available,13.98,47.48,low,low,9,namecheap,,,06/08/2026 07:59
@@ -110,8 +110,8 @@ e4f28605-f521-4fba-93da-d891bc28dba5,oddoneout.forsale,available,19.99,,low,low,
 591e7116-0a2e-4a3f-8f01-41a5689e220b,inquestion.forsale,available,19.99,,medium,low,11,name.com,,,
 26b6850f-a561-4376-90a9-a02d7114abd4,malealpha.forsale,available,19.99,,medium,low,10,name.com,,,
 74fbb14e-83a5-4f16-bd77-8d0fc9a3da5c,wrestling.forsale,premium,118.8,118.8,high,low,9,namesilo,,,
-f0789493-2d77-46dd-8bc7-de556680af56,acids.forsale,available,19.99,,medium,low,5,name.com,,,
-b5ca8bec-ca63-4e1f-840c-d664ffa801c4,armed.forsale,available,19.99,,high,low,5,name.com,,,
+f0789493-2d77-46dd-8bc7-de556680af56,acids.forsale,available,19.99,,low,low,5,name.com,,,
+b5ca8bec-ca63-4e1f-840c-d664ffa801c4,armed.forsale,available,13.98,47.48,low,low,5,namecheap,,,22/09/2026 07:55
 ab4e5ab0-43d0-4722-93b4-4cfa579dac18,unsound.forsale,available,19.99,,medium,low,7,name.com,,,
 d51461e1-e8b5-40bf-930a-3a362c646790,stormy.forsale,available,19.99,,medium,low,6,name.com,,,
 6f26b498-108b-47bd-a2c8-3e1010b354aa,naturewriter.forsale,available,19.99,,low,low,13,name.com,,,
@@ -128,7 +128,7 @@ f0de97d6-aae3-4224-ae2d-4152fbc0fc93,angle.forsale,available,19.99,,high,low,5,n
 abf03f79-dc79-49b3-8ed5-d79893bab41b,ametropic.forsale,available,13.98,47.48,low,low,9,namecheap,,,
 6760e45d-a7c7-476f-affc-c8abbe38c005,jointly.forsale,premium,118.8,118.8,medium,low,7,namesilo,,,
 4bdf6600-4aef-44c4-9a4e-6e06adc47240,stuffy.forsale,available,13.98,47.48,low,low,6,namecheap,,,
-8b97bc10-c1f0-4261-b837-039941071fda,leap.forsale,available,19.99,,high,low,4,name.com,,,
+8b97bc10-c1f0-4261-b837-039941071fda,leap.forsale,available,16.99,36.99,medium,low,4,namesilo,,,23/09/2026 01:39
 79dbc675-ddc0-41da-b2a0-b6cc3b9997db,bakery.forsale,premium,78.54,78.54,high,low,6,namesilo,,,
 f5035398-9200-4e2b-a8d5-a17399168be4,major.forsale,available,19.99,,high,low,5,name.com,,,
 8532cd87-e164-491a-823f-195d97bc68a3,goodbooks.forsale,available,19.99,,high,low,10,name.com,,,
@@ -137,7 +137,7 @@ cc9230be-fe64-40cb-9f30-09fb438c895c,oatmeal.forsale,available,19.99,,high,low,7
 a930139b-6fc1-4eca-9c77-5d266d4c5bce,tide.forsale,available,19.99,,high,low,4,name.com,,,
 2e6b5ee9-6c82-4be1-acd5-e78556de43b5,carefor.forsale,available,19.99,,high,low,8,name.com,,,
 15d69951-0cbe-467d-b5bf-204b1cf53687,herbalmedicine.forsale,available,19.99,,high,low,15,name.com,,,
-8630f189-3990-417f-b301-69a424228f3f,abovenamed.forsale,available,19.99,,medium,low,11,name.com,,,
+8630f189-3990-417f-b301-69a424228f3f,abovenamed.forsale,available,19.99,,low,low,11,name.com,,,
 16cfe185-8dca-4a70-8652-ef1359de0554,matter.forsale,available,19.99,,medium,low,6,name.com,,,
 2d5eeac3-f5ea-4e86-9bc1-6de8d900462c,campaign.forsale,premium,118.8,118.8,high,low,8,namesilo,,,
 abe7966e-b201-445a-b514-730805dcdaba,seagull.forsale,available,19.99,,high,low,7,name.com,,,
@@ -165,13 +165,13 @@ e162a2de-7ac5-4512-8704-cef0aee3a80d,yearround.forsale,available,19.99,,high,low
 26f77058-19a3-4ceb-ba63-9f8f4663ee9c,stewart.forsale,available,19.99,,medium,low,7,name.com,,,
 f67dfce4-df82-4dc0-873e-f30fa8390371,pubmed.forsale,available,19.99,,high,low,6,name.com,,,
 5d383932-6e8c-422b-9251-ba090373b289,bearinmind.forsale,available,19.99,,high,low,12,name.com,,,
-e68fccea-a78b-434d-9859-91e0373f448b,absent.forsale,available,19.99,52.99,high,low,6,name.com,,,
+e68fccea-a78b-434d-9859-91e0373f448b,absent.forsale,available,16.99,36.99,low,low,6,namesilo,,,21/09/2026 14:37
 a9f4c927-7406-4427-a420-ca1223940dee,unfortunately.forsale,available,19.99,,medium,low,13,name.com,,,
 a8e0c5cc-2ede-435b-a87c-05b0e9f2d6cc,depression.forsale,available,19.99,,medium,low,10,name.com,,,
 5b0e5608-1714-4e37-99a6-e0cfded63101,case.forsale,premium,118.8,118.8,high,low,4,namesilo,,,
 d29136cf-d9e1-468c-ac22-ee6a8c8dde69,coffeemoney.forsale,available,19.99,,high,low,12,name.com,,,
 3bd16447-21ce-4859-8ed0-44548c68db70,bringin.forsale,available,19.99,,high,low,8,name.com,,,
-6601cbbb-a86c-4df4-a68e-227c6f36933c,blonde.forsale,available,19.99,,high,low,6,name.com,,,
+6601cbbb-a86c-4df4-a68e-227c6f36933c,blonde.forsale,available,16.99,36.99,medium,low,6,namesilo,,,22/09/2026 22:17
 279a34df-7def-4991-aec9-190dea49263f,roman.forsale,available,19.99,,high,low,5,name.com,,,
 145f5c87-d479-455b-9566-a40c69cce0d4,lucy.forsale,available,19.99,,high,low,4,name.com,,,
 3b0e1e66-b64b-4aac-b674-938ae5f7d362,acicular.forsale,available,13.98,47.48,low,low,8,namecheap,,,
@@ -186,7 +186,7 @@ dcc3aa56-b386-43a0-8c6c-20959ce317e1,aerophilic.forsale,available,13.98,47.48,lo
 77bccb6f-1a33-4e90-91d2-f31af4ab9e69,wonder.forsale,available,19.99,,high,medium,6,name.com,,,
 1a6d2d4c-02d3-4765-9eaf-38bc0ee7ff2d,reminder.forsale,available,19.99,,medium,low,8,name.com,,,
 8f9bbc49-256a-4951-90c0-c691c96dd185,anorectal.forsale,available,13.98,47.48,low,low,9,namecheap,,,
-8df62bba-7bf6-41eb-b7ee-fd11f8ec1089,abouttime.forsale,available,19.99,,medium,low,10,name.com,,,
+8df62bba-7bf6-41eb-b7ee-fd11f8ec1089,abouttime.forsale,available,19.99,,low,low,10,name.com,,,
 1fc2d0f9-e1f6-44dc-b764-4824f6bf3dcf,jail.forsale,available,19.99,,high,low,4,name.com,,,
 0db3cf2e-2a50-41a9-82de-1e3a757b8b2a,useless.forsale,available,19.99,,medium,low,7,name.com,,,
 b6ce495c-ed44-46d2-8046-ea228c98c79f,aided.forsale,available,16.99,36.99,low,low,5,namesilo,,,19/09/2026 12:43
@@ -198,7 +198,7 @@ c0dd3bcd-c0d0-4396-a1fe-8abb6f793548,amphibious.forsale,available,13.98,47.48,lo
 7162a52e-b47d-402b-be87-4d12c3992530,afternoon.forsale,available,19.99,,high,low,9,name.com,,,
 ca81db3d-4d65-4c54-b936-363839a08f6a,rodshaped.forsale,available,13.98,47.48,low,low,10,namecheap,,,08/08/2026 05:07
 eb8eb8ff-4bcd-48d6-a882-ce5490c2e3df,takeawife.forsale,available,19.99,,low,low,11,name.com,,,
-a386211b-9418-4d14-9204-ba955b49c399,eight.forsale,premium,82.5,82.5,high,low,5,name.com,,,
+a386211b-9418-4d14-9204-ba955b49c399,eight.forsale,premium,78.54,78.54,medium,low,5,namesilo,,,21/09/2026 13:20
 7b6a2bfc-ae52-4a3a-8d98-1fbde28db425,surrounding.forsale,available,19.99,,high,low,11,name.com,,,
 f8b0d5b8-97d5-46d1-8760-9d08abafff9a,lxiv.forsale,available,13.98,47.48,low,low,4,namecheap,,,
 d8ab4d11-c898-469b-80fe-2f7746fa6636,genuine.forsale,premium,123.75,123.75,high,low,7,name.com,,,
@@ -206,10 +206,10 @@ f240d718-681d-4b0f-85b2-02078274409a,potterabout.forsale,available,19.99,,low,lo
 4c136396-aa1b-45d7-8b72-958f2531bebe,sneezing.forsale,available,19.99,,medium,low,8,name.com,,,
 a3a931b4-26cf-40d4-8b54-91f4efd6141d,cannot.forsale,available,19.99,,high,low,6,name.com,,,
 079544b3-e9a6-49f9-a0df-fc7723cf92dd,analgetic.forsale,available,13.98,47.48,low,low,9,namecheap,,,
-a538666b-4ea5-4efe-b608-89e089a42c6e,after.forsale,available,19.99,52.99,high,low,5,name.com,,,
+a538666b-4ea5-4efe-b608-89e089a42c6e,after.forsale,available,16.99,36.99,medium,low,5,namesilo,,,21/09/2026 22:16
 6cf3c6d7-d0f0-4ba8-bc54-3f9de93e178f,happy.forsale,premium,35.4,35.4,high,medium,5,namesilo,,,
 b452a240-fb42-49f5-951f-6cf0517dcb21,jewnose.forsale,available,19.99,,medium,low,8,name.com,,,
-4fbb0c76-fdb8-460b-9f0e-c98c8221b2a4,fuzzy.forsale,available,19.99,,high,low,5,name.com,,,
+4fbb0c76-fdb8-460b-9f0e-c98c8221b2a4,fuzzy.forsale,available,13.98,47.48,low,low,5,namecheap,,,22/09/2026 23:28
 04237999-add3-42ea-b265-4f820e827843,handdown.forsale,available,13.98,47.48,low,low,9,namecheap,,,20/08/2026 23:08
 9ee6db30-21f1-466f-a045-4b4b138c5560,elegant.forsale,available,19.99,52.99,high,low,7,name.com,,,
 ed857fc8-43b2-45d9-a612-0b9c28174b0c,pauliii.forsale,available,19.99,,medium,low,8,name.com,,,
@@ -217,7 +217,7 @@ ed857fc8-43b2-45d9-a612-0b9c28174b0c,pauliii.forsale,available,19.99,,medium,low
 cb9bd0fa-3f3f-406e-9128-06d0daa0e36a,ascendant.forsale,available,13.98,47.48,low,low,9,namecheap,,,
 a82f7488-3aa5-450d-844f-4a2784340c39,creek.forsale,available,19.99,,high,low,5,name.com,,,
 341a004d-4a96-4b63-95ef-dcb4b6c72c57,tall.forsale,premium,118.8,118.8,high,low,4,namesilo,,,
-a83ab90e-b82a-4f91-a438-f8b196e0b3d7,nail.forsale,available,19.99,52.99,medium,low,4,name.com,,,
+a83ab90e-b82a-4f91-a438-f8b196e0b3d7,nail.forsale,available,16.99,36.99,low,low,4,namesilo,,,21/09/2026 16:04
 4dd5c38e-fea5-40b2-b48c-4511ff9ba2ba,allelic.forsale,available,13.98,47.48,low,low,7,namecheap,,,
 38f785fa-45cd-4df1-b67b-cef7aac32503,shavingoil.forsale,available,19.99,,low,low,11,name.com,,,
 b83147bd-332d-4617-8fac-bc5c3819447d,intheraw.forsale,available,16.99,36.99,low,low,10,namesilo,,,16/09/2026 08:01
@@ -231,7 +231,7 @@ ba03f11c-d06d-482f-9781-96cdc8d5738b,making.forsale,available,19.99,,high,low,6,
 0d2562da-4d05-4a56-8ea8-632877305e1c,unemployment.forsale,available,19.99,,low,low,12,name.com,,,
 bfee2252-42ef-46a3-8c14-2d016e99abc8,wealth.forsale,available,19.99,,high,low,6,name.com,,,
 887c1649-378f-4dfe-ad48-21ba24d4e9c3,gaslighter.forsale,available,19.99,,medium,low,11,name.com,,,
-f01e6c7b-7561-476f-9c1b-dce12301cb22,bootleg.forsale,available,19.99,,high,low,7,name.com,,,
+f01e6c7b-7561-476f-9c1b-dce12301cb22,bootleg.forsale,available,13.98,47.48,low,low,7,namecheap,,,22/09/2026 21:19
 8492b3d9-e499-4a77-8322-85bf5ba4fbb3,lot.forsale,available,,,medium,low,3,,,,
 785640f3-cd1a-426e-8a14-d48009fcee79,anywhere.forsale,available,19.99,,high,low,8,name.com,,,
 af6119df-345d-48fe-b0ec-6886944d7d96,emailstorm.forsale,available,19.99,,medium,low,11,name.com,,,
@@ -267,7 +267,7 @@ c0f11c63-2a27-4554-a434-7d5420241b3c,oddmanwins.forsale,available,19.99,,low,low
 6d42a5c5-70e6-47b0-896e-35344ef317aa,allopathic.forsale,available,13.98,47.48,low,low,10,namecheap,,,
 2fd804e1-57ae-490f-99c6-2b261609e49a,stvincent.forsale,premium,118.8,118.8,medium,low,11,namesilo,,,
 1d1c14c9-212f-4e73-bea7-91e4bd6b65f6,anomic.forsale,available,13.98,47.48,low,low,6,namecheap,,,
-0f03f0f4-649f-4488-8e81-e77e75b1df36,acidreflux.forsale,available,19.99,,medium,low,11,name.com,,,
+0f03f0f4-649f-4488-8e81-e77e75b1df36,acidreflux.forsale,available,19.99,,low,low,11,name.com,,,
 a1f3385c-cefb-46bd-8807-7b43a9fde410,pattycase.forsale,available,19.99,,medium,low,10,name.com,,,
 8b496d39-e080-4eff-86bc-f5e5930e87f3,reversible.forsale,available,19.99,,high,low,10,name.com,,,
 d794c62d-cb7f-44d3-a627-5529f7e246b5,kiev.forsale,premium,118.8,118.8,high,low,4,namesilo,,,
@@ -278,19 +278,19 @@ f103fa7a-c91d-428b-b663-1c4801144b58,wedge.forsale,premium,118.8,118.8,medium,lo
 e9d7c0da-434b-43d9-950a-9689c64216f9,speedlimit.forsale,available,19.99,,medium,low,11,name.com,,,
 975a8833-63b9-4bd7-9192-376efba2459c,swollen.forsale,available,19.99,52.99,medium,low,7,name.com,,,
 8a9ee7cb-66f1-419b-9771-5c196f9ff69e,bond.forsale,premium,118.8,118.8,high,low,4,namesilo,,,
-cd2e72cd-a674-43cd-b064-1b8fda35d68c,two.forsale,premium,82.5,82.5,high,low,3,name.com,,,
+cd2e72cd-a674-43cd-b064-1b8fda35d68c,two.forsale,premium,78.54,78.54,medium,low,3,namesilo,,,21/09/2026 12:14
 07cb4712-e113-44f7-9f76-09356017f140,cnn.forsale,available,19.99,,high,low,3,name.com,,,
 d16dfdf5-8c4d-4b53-a8c5-0be5f31742d1,moneymarketfund.forsale,premium,118.8,118.8,high,low,17,namesilo,,,
 27f3b470-c551-4960-837a-543ba53a202d,timer.forsale,premium,123.75,,high,low,5,name.com,,,
-38f663d2-a6bf-4057-b07b-e0acb8ad32e6,beatup.forsale,available,19.99,,medium,low,7,name.com,,,
+38f663d2-a6bf-4057-b07b-e0acb8ad32e6,beatup.forsale,available,13.98,47.48,low,low,7,namecheap,,,22/09/2026 18:16
 a41104f5-1a18-4eb3-a425-505598a629d0,voiceless.forsale,available,13.98,47.48,low,low,9,namecheap,,,05/08/2026 23:23
 859901c8-4fc2-4a8d-9f30-70cec02fa227,timessquare.forsale,available,19.99,,low,low,12,name.com,,,
 780d64a5-d3d6-4638-8903-cdc31642b89a,crisp.forsale,available,19.99,52.99,medium,low,5,name.com,,,
 19dde292-2955-4fde-9adf-542de20a948d,sunrise.forsale,available,19.99,,high,low,7,name.com,,,
-63c32fb9-f36f-4e9c-9732-bdb58937c545,fresh.forsale,premium,118.8,118.8,high,low,5,namesilo,,,
+63c32fb9-f36f-4e9c-9732-bdb58937c545,fresh.forsale,premium,118.8,118.8,medium,low,5,namesilo,,,23/09/2026 01:54
 d6749f3c-6b45-44b2-8c7c-249ac3706dc3,angolan.forsale,available,13.98,47.48,low,low,7,namecheap,,,
 3cf2515e-59ae-4867-afe1-778ecfd50402,guarantee.forsale,premium,123.75,,high,low,9,name.com,,,
-5c43624e-2926-4460-a060-3064aae099e6,operation.forsale,available,16.99,36.99,medium,low,9,namesilo,,,19/09/2026 07:38
+5c43624e-2926-4460-a060-3064aae099e6,operation.forsale,available,16.99,36.99,medium,low,9,namesilo,,,23/09/2026 03:22
 22859379-d408-4f7a-948c-815333721579,relevance.forsale,available,19.99,,high,low,9,name.com,,,
 66973ce9-da1b-4469-9cc5-a65d5c355d41,coverup.forsale,available,19.99,,medium,low,8,name.com,,,
 031a7d26-5e7b-47b6-a234-ec7a36901cac,amnesiac.forsale,available,13.98,47.48,low,low,8,namecheap,,,
@@ -309,7 +309,7 @@ aaf5e39d-87dd-4cdb-8ce8-5df7189ccefd,rihanna.forsale,available,19.99,,high,low,7
 501f1a4a-3b77-4cdd-b48b-0131c1313bd8,tuesdays.forsale,available,19.99,,low,low,8,name.com,,,
 038ccee2-18d5-483f-bddf-c3ea73354976,xxiv.forsale,available,13.98,47.48,low,low,4,namecheap,,,
 fe6ebacd-e9ea-4b07-97c4-0dd39477ac3b,marks.forsale,available,19.99,,medium,low,5,name.com,,,
-0ee83e43-6aee-448c-9659-ff4368ea583f,arch.forsale,available,19.99,,medium,low,4,name.com,,,
+0ee83e43-6aee-448c-9659-ff4368ea583f,arch.forsale,available,16.99,36.99,low,low,4,namesilo,,,22/09/2026 07:38
 cd2a939b-662e-4d5e-8a20-be5b9135eb0f,clearly.forsale,available,19.99,,high,low,7,name.com,,,
 e74bf9eb-0e47-49d8-bbd5-0c6ef509a91c,educate.forsale,available,19.99,,high,low,7,name.com,,,
 171e2ed2-cb0c-49fb-9463-829fcd75c9ee,farthest.forsale,available,19.99,,medium,low,8,name.com,,,
@@ -339,20 +339,20 @@ e23f3021-3eac-4b90-81da-ee14a74ad6be,received.forsale,available,19.99,,medium,lo
 e1478dd7-9fea-4309-9f2e-0d9203448184,sensing.forsale,available,19.99,,medium,low,7,name.com,,,
 3ded96f6-31e6-458d-b235-3c3cfe275ec3,delicious.forsale,available,19.99,52.99,high,low,9,name.com,,,
 295dbf27-1ae9-4671-826c-fed999b71cb4,direct.forsale,available,19.99,52.99,high,medium,6,name.com,,,
-0dc66b6a-523e-47dc-a6f4-03dfae0340d9,alkaline.forsale,available,19.99,52.99,high,low,8,name.com,,,
+0dc66b6a-523e-47dc-a6f4-03dfae0340d9,alkaline.forsale,available,19.99,52.99,medium,low,8,name.com,,,22/09/2026 00:14
 c5b7e5b6-0b47-4c10-863f-e9de6e8f7d74,bringon.forsale,available,19.99,,high,low,8,name.com,,,
 5ddf578b-9952-4f61-a1cc-91b3f55ddd70,maybe.forsale,available,,,high,low,5,,,,
 592e6228-4f06-4986-a35c-48fe8bbd2f4b,myspace.forsale,available,,,high,low,7,,,,
 ab3ff5c4-7c6e-4c7f-9e52-894bf73d9a1e,clxxv.forsale,available,13.98,47.48,low,low,5,namecheap,,,
 c306ea51-bac5-43b2-8b33-191c23c8e132,crackers.forsale,available,13.98,47.48,low,low,8,namecheap,,,06/08/2026 20:45
-b200273e-7535-4ed6-82b9-f11109414ec4,abstract.forsale,premium,123.75,123.75,high,low,8,name.com,,,
+b200273e-7535-4ed6-82b9-f11109414ec4,abstract.forsale,premium,118.8,118.8,medium,low,8,namesilo,,,21/09/2026 15:10
 598d2920-3813-41f0-b1bd-f4b5dfe1f2ea,orangutan.forsale,available,19.99,,high,low,9,name.com,,,
 0da93afd-0674-4a33-a273-1b5ed7ccd9a4,waters.forsale,premium,118.8,118.8,medium,low,6,namesilo,,,
 5f0023d5-6814-4103-8c3f-a6d8d4da8612,courteous.forsale,available,19.99,52.99,high,low,9,name.com,,,
 fcbd699c-6f1a-444e-9443-4a11775d84d3,eonian.forsale,available,13.98,47.48,low,low,6,namecheap,,,
 6afc2660-59e4-416b-933d-853af1dc22d4,sushibar.forsale,available,19.99,,high,low,9,name.com,,,
 ffb77bdd-e260-4a23-bad5-81ea88a8da01,battleful.forsale,available,13.98,47.48,low,low,9,namecheap,,,09/08/2026 01:39
-3ea923cf-50c1-4a0f-950b-80a4dda3c531,sexy.forsale,premium,123.75,,high,low,4,name.com,,,
+3ea923cf-50c1-4a0f-950b-80a4dda3c531,sexy.forsale,premium,118.8,118.8,medium,low,4,namesilo,,,22/09/2026 07:13
 5d4597ed-b96e-4da2-94b9-7a204604040c,daft.forsale,available,13.98,47.48,low,low,4,namecheap,,,06/08/2026 20:50
 af1b08af-31f6-4ae6-8502-c91046c83c82,thanksfornothing.forsale,available,19.99,,medium,low,18,name.com,,,
 90067044-024b-4c45-ab7e-a3b12ba9d99c,tothepowerof.forsale,available,19.99,,medium,low,15,name.com,,,
@@ -379,7 +379,7 @@ ca5ee1a0-9e3f-48b6-aa51-1715f800e961,scenicroute.forsale,available,19.99,,high,l
 ace50ccc-ebd9-45aa-bd98-642de2a282fe,into.forsale,available,19.99,,medium,low,4,name.com,,,
 a67e6172-ae19-4c39-a033-a062f5d1d226,sauna.forsale,premium,118.8,118.8,high,low,5,namesilo,,,
 af5007a3-5b98-4400-98c8-fb2fe15f4adc,level.forsale,available,19.99,,high,low,5,name.com,,,
-a78f8574-9004-4060-8b42-25f7f118c089,plain.forsale,available,19.99,,medium,low,5,name.com,,,
+a78f8574-9004-4060-8b42-25f7f118c089,plain.forsale,available,16.99,36.99,low,low,5,namesilo,,,22/09/2026 07:19
 36a765a3-96bf-4544-95cc-83992e0cecf4,tackabout.forsale,available,19.99,,low,low,10,name.com,,,
 0dd7a87d-7542-4aa6-a9f7-0b9b3812fc3a,sport.forsale,premium,1107,1107,high,low,5,namesilo,,,
 a0f140d8-ea0c-4a6c-8e4d-26a2d7707318,whiskery.forsale,available,13.98,47.48,low,low,8,namecheap,,,08/08/2026 16:20
@@ -387,12 +387,12 @@ a0f140d8-ea0c-4a6c-8e4d-26a2d7707318,whiskery.forsale,available,13.98,47.48,low,
 28539e5d-c531-4122-bf66-9ca7e48ad8f8,nutritive.forsale,available,13.98,47.48,medium,low,9,namecheap,,,08/09/2026 09:04
 4da1c8ee-4056-4602-9cfb-40233cbb9dc0,givesomeoneabreak.forsale,available,19.99,,high,low,20,name.com,,,
 83befc7e-8a65-4080-a823-5de508c466bf,conveyable.forsale,available,13.98,47.48,low,low,10,namecheap,,,07/08/2026 06:24
-cbee4018-afb5-4465-8bb5-af47662e403f,fond.forsale,available,19.99,52.99,high,low,4,name.com,,,
+cbee4018-afb5-4465-8bb5-af47662e403f,fond.forsale,available,16.99,36.99,medium,low,4,namesilo,,,21/09/2026 21:45
 eb32e60c-29df-49d3-adcb-e50beec5fd87,rubbingoil.forsale,available,19.99,,low,low,11,name.com,,,
 55c6bab1-ec03-4c4b-b024-4f5a5c01bf83,aufait.forsale,available,13.98,47.48,low,low,7,namecheap,,,
 3d8d2fcb-d4ba-487e-a089-525b2cca5177,arabian.forsale,available,13.98,47.48,low,low,7,namecheap,,,06/08/2026 11:05
 e4c57ec3-c4c3-44d8-8a2c-f399cf98e55d,situated.forsale,available,19.99,,medium,low,8,name.com,,,
-df6d03e4-be10-4852-b0d2-734f3dec0f16,sum.forsale,available,19.99,52.99,medium,low,3,name.com,,,
+df6d03e4-be10-4852-b0d2-734f3dec0f16,sum.forsale,available,16.99,36.99,low,low,3,namesilo,,,21/09/2026 22:52
 31532c85-e191-42ee-8cc7-2eed3ec1855a,seeming.forsale,available,19.99,,high,low,7,name.com,,,
 584ba466-d1bd-44a4-b1af-1916f6c56af3,berserk.forsale,available,13.98,47.48,low,low,7,namecheap,,,
 1cf9c91c-40c6-4150-973a-1dbcbc371054,control.forsale,available,13.98,47.48,medium,low,7,namecheap,,,08/09/2026 08:00
@@ -401,7 +401,7 @@ df6d03e4-be10-4852-b0d2-734f3dec0f16,sum.forsale,available,19.99,52.99,medium,lo
 8bc1297a-cf0c-4b85-bde7-9545f8021b54,glasses.forsale,premium,118.8,118.8,high,low,7,namesilo,,,
 37063c7c-3e3b-47cf-ba24-7721d6c56f9e,thirtytwo.forsale,available,13.98,47.48,low,low,10,namecheap,,,
 4d8a071b-2c54-4452-abbb-d17c3ddf2779,speech.forsale,available,19.99,,high,low,6,name.com,,,
-ea804440-7765-439c-9938-6429256cab3e,four.forsale,premium,82.5,82.5,medium,low,4,name.com,,,
+ea804440-7765-439c-9938-6429256cab3e,four.forsale,premium,78.54,78.54,low,low,4,namesilo,,,21/09/2026 13:11
 44573fc6-76c3-4561-996a-5573de1288cc,sidelong.forsale,available,13.98,47.48,low,low,8,namecheap,,,07/08/2026 03:26
 870f440a-b79e-4bf0-833b-add5f81e3a24,floor.forsale,premium,118.8,118.8,medium,low,5,namesilo,,,08/09/2026 02:52
 ef04f843-0f41-4338-99e6-48b739b6c606,allergist.forsale,available,19.99,,medium,low,9,name.com,,,
@@ -430,7 +430,7 @@ c06dbd99-e0f6-4b95-b599-6267d5d9440f,thickandthin.forsale,available,19.99,,low,l
 6f37c541-94aa-41b9-9dcb-c1231367068f,atlast.forsale,available,19.99,,high,low,7,name.com,,,
 7515802e-72e1-4572-a93e-1565020240ef,gutcheck.forsale,available,19.99,,medium,low,9,name.com,,,
 c010bc50-06d8-4e30-8f77-44dcf1507a9e,devote.forsale,available,19.99,,high,low,6,name.com,,,
-5052ea9f-b8b2-4199-9da0-1cdda41f5153,deep.forsale,available,19.99,52.99,high,medium,4,name.com,,,
+5052ea9f-b8b2-4199-9da0-1cdda41f5153,deep.forsale,available,16.99,36.99,medium,low,4,namesilo,,,21/09/2026 15:15
 0ad0040a-042f-4e0f-97c1-96f1f141e695,disorganized.forsale,available,19.99,,medium,low,12,name.com,,,
 6567d4d0-6a09-4a7a-aa8e-9be565337f95,studentloan.forsale,available,19.99,,medium,low,12,name.com,,,
 b3dfa44c-816e-4274-862a-9186b80c1dcf,asterisked.forsale,available,13.98,47.48,low,low,10,namecheap,,,07/08/2026 08:47
@@ -456,7 +456,7 @@ a36d5045-c5e8-4ab5-8a1a-2c2992027521,precise.forsale,available,19.99,,high,low,7
 a9459d61-edde-401b-9f6f-29b89cf3766e,tasting.forsale,available,19.99,,high,low,7,name.com,,,
 7e9e0101-cbfd-4f6b-92ef-74418ca50f6d,reported.forsale,available,19.99,,medium,low,8,name.com,,,
 c5d681c2-cbcc-4273-907c-b520b96e79a3,cultivable.forsale,available,13.98,47.48,low,low,10,namecheap,,,06/08/2026 11:20
-9729077c-4e9f-4950-97b9-6dc0e1f976a4,bold.forsale,available,19.99,,high,low,4,name.com,,,
+9729077c-4e9f-4950-97b9-6dc0e1f976a4,bold.forsale,available,16.99,36.99,low,low,4,namesilo,,,22/09/2026 23:09
 4fbf036c-2aec-42bb-8372-e47828ba46be,westeuropean.forsale,available,19.99,,low,low,13,name.com,,,
 5ad9b497-9fd1-4922-a08a-a9bd3c85010b,clock.forsale,premium,118.8,118.8,medium,low,5,namesilo,,,
 67989dfc-072d-4202-bd4d-9e1ab6426b2e,biology.forsale,premium,118.8,118.8,high,low,7,namesilo,,,
@@ -465,7 +465,7 @@ bd83ccb3-9f74-42ec-b2c7-28769c0a213f,augustan.forsale,available,13.98,47.48,low,
 8403d1dd-5f1f-4881-a7be-45ec5466afc4,truant.forsale,available,13.98,47.48,low,low,6,namecheap,,,08/08/2026 01:41
 e3901d0c-53b8-4302-a1a6-ac728f33fbfd,dismaying.forsale,available,13.98,47.48,low,low,9,namecheap,,,06/08/2026 04:36
 3bf2b689-5276-4e0c-a9c4-0d7ae797f223,algonkin.forsale,available,13.98,47.48,low,low,8,namecheap,,,
-0d1b3641-f730-4b76-9a57-550af64688bd,stellar.forsale,available,19.99,,high,medium,7,name.com,,,
+0d1b3641-f730-4b76-9a57-550af64688bd,stellar.forsale,available,16.99,36.99,medium,low,7,namesilo,,,22/09/2026 10:32
 6da89d0e-1f24-46d8-a8c3-99d05bfd97c5,shaper.forsale,premium,118.8,118.8,high,low,6,namesilo,,,
 0b27766c-9e1a-4259-aba4-b1c9ed8dc009,blob.forsale,available,19.99,,medium,low,4,name.com,,,
 0f397734-c332-48c6-8a65-4e82a5ecbd3c,vice.forsale,available,19.99,,medium,low,4,name.com,,,
@@ -478,7 +478,7 @@ ba8ce1ff-b330-4b6b-92cd-1c4faf8d4d62,popular.forsale,premium,118.8,118.8,high,lo
 a91e2e94-0601-4573-9b32-342f89ec77b3,signlanguage.forsale,available,19.99,,medium,low,13,name.com,,,
 b5427ca3-4047-41c9-a1ed-7b6b9c4b6acb,sagittate.forsale,available,13.98,47.48,low,low,9,namecheap,,,06/08/2026 22:13
 c4a2c637-5ed0-416d-9c08-370b4b574f06,fellowman.forsale,available,16.99,36.99,low,low,10,namesilo,,,21/09/2026 03:03
-09f949f7-594c-467f-878c-be0b1a2a69fb,establish.forsale,available,19.99,,medium,low,9,name.com,,,
+09f949f7-594c-467f-878c-be0b1a2a69fb,establish.forsale,available,16.99,36.99,low,low,9,namesilo,,,22/09/2026 17:35
 8b969da2-de1f-4cde-aec1-e3f51d6ee103,ague.forsale,available,13.98,47.48,low,low,4,namecheap,,,
 81325f27-3f7b-4a4b-b33c-05331e8773f9,inlaw.forsale,available,19.99,,high,low,6,name.com,,,
 e63d7d4d-017e-45ce-8bfc-a9c8e7d54aa2,sloping.forsale,available,13.98,47.48,low,low,7,namecheap,,,08/09/2026 05:27
@@ -493,7 +493,7 @@ d72aa82e-eebf-4059-876f-5507a200756c,worm.forsale,premium,78.54,78.54,medium,low
 8320cb7f-24ee-4629-bc14-f23328506e0b,bread.forsale,premium,118.8,118.8,medium,low,5,namesilo,,,08/09/2026 03:15
 dbe622ad-ce29-4741-927c-338fe32a6f94,missionaccomplished.forsale,available,19.99,,medium,low,20,name.com,,,
 1b9b42c0-962f-40b1-a788-e56e21889609,yesandno.forsale,available,19.99,,low,low,10,name.com,,,
-2ca48aa4-1ed6-4fc5-a9d1-ed49249168a9,booted.forsale,premium,78.54,78.54,medium,low,6,namesilo,,,
+2ca48aa4-1ed6-4fc5-a9d1-ed49249168a9,booted.forsale,premium,78.54,78.54,low,low,6,namesilo,,,22/09/2026 23:43
 3208fbe1-579c-434d-ba46-f6e5c6c60135,getinto.forsale,available,19.99,,high,low,8,name.com,,,
 82f4070c-c367-4529-b89f-76b1103d6db6,pencil.forsale,premium,118.8,118.8,high,low,6,namesilo,,,
 3feed299-a939-40c0-b5af-563206a80f58,hood.forsale,premium,118.8,118.8,medium,low,4,namesilo,,,
@@ -513,7 +513,7 @@ aa8f453e-1e30-47c1-a5de-bbce729ff153,treeofsorrow.forsale,available,19.99,,low,l
 22eba97d-ce2e-4e65-9876-33afe6345394,rice.forsale,premium,71.4,71.4,high,low,4,namesilo,,,
 f1bdf721-25f4-44ed-85ff-5db76831b973,sundeck.forsale,available,19.99,,high,low,8,name.com,,,
 31af1cb3-ed67-49cd-aa31-86cfede200bf,perceiving.forsale,available,19.99,,high,low,10,name.com,,,
-13aa4fba-3276-4b8a-af30-bc35c0a70954,only.forsale,premium,123.75,123.75,high,medium,4,name.com,,,
+13aa4fba-3276-4b8a-af30-bc35c0a70954,only.forsale,premium,118.8,118.8,medium,low,4,namesilo,,,22/09/2026 02:00
 0cafbe23-1dfc-4ecf-addd-9b2834821b5b,subscribe.forsale,available,19.99,,high,low,9,name.com,,,
 fa1ecfce-e058-466e-bb87-0b4b87b10d4d,beguiled.forsale,available,13.98,47.48,low,low,8,namecheap,,,09/08/2026 09:46
 476839d9-d39d-4a39-a78e-9621c9fde966,apogamic.forsale,available,13.98,47.48,low,low,8,namecheap,,,06/08/2026 01:41
@@ -548,12 +548,12 @@ b87e978e-3596-4f34-9ae3-60c9ddbaa90c,babyfaced.forsale,available,13.98,47.48,low
 93f3342b-808b-499d-a903-170aff3f0cd9,november.forsale,available,19.99,,high,low,8,name.com,,,
 464d6ce9-5896-4c83-8b94-dea0ea9f222c,dustyrose.forsale,available,19.99,,low,low,10,name.com,,,
 f9da2bdd-d8f5-4767-b4a0-e5bcd5d7f995,chore.forsale,available,19.99,,high,low,5,name.com,,,
-4f5b6853-089f-44db-a25d-088ea8ebbe77,skilful.forsale,available,19.99,52.99,high,low,7,name.com,,,
+4f5b6853-089f-44db-a25d-088ea8ebbe77,skilful.forsale,available,16.99,36.99,medium,low,7,namesilo,,,21/09/2026 17:29
 e5d17c7b-afe5-4a4f-9b9e-7a84c9f86027,allylic.forsale,available,13.98,47.48,low,low,7,namecheap,,,
 dc06522d-af72-48d9-8a2b-adf637d784e7,bitter.forsale,available,13.98,47.48,low,low,6,namecheap,,,
 1e2f71b0-a197-4a52-bd73-4af1db906e6c,prose.forsale,available,19.99,,medium,low,5,name.com,,,
 d0a8125e-a253-425b-8298-70d9e1d995a2,theabsurd.forsale,available,13.98,47.48,low,low,10,namecheap,,,
-8b043cd4-943e-46a1-a191-54de00af856c,sharp.forsale,premium,123.75,123.75,high,low,5,name.com,,,
+8b043cd4-943e-46a1-a191-54de00af856c,sharp.forsale,premium,118.8,118.8,medium,low,5,namesilo,,,21/09/2026 16:42
 53bdc1e7-2f28-4754-aa94-0e55d8c5527f,hall.forsale,premium,118.8,118.8,high,low,4,namesilo,,,
 770c4ebb-61ae-47bd-b78e-b5de2f32cb20,rail.forsale,premium,118.8,118.8,high,low,4,namesilo,,,
 5931c4a4-3539-4d9b-9863-5e4c85784f69,nwo.forsale,available,19.99,,medium,low,3,name.com,,,
@@ -573,13 +573,13 @@ a6f403ca-1c6e-4ba4-9fec-326b0a26d916,inundated.forsale,available,13.98,47.48,low
 873d8c46-a13c-4ae6-8f3e-f2e107e762a5,tongue.forsale,available,19.99,,medium,low,6,name.com,,,
 9653869f-8762-42bb-bcd2-6bfbc69bdbcd,turn.forsale,available,19.99,,high,low,4,name.com,,,
 54e3b0e9-6011-4c0f-97bb-bc5b21a54012,contracted.forsale,available,19.99,52.99,medium,low,10,name.com,,,
-fc129177-16f5-4965-9bec-c5d6f13ae185,ruby.forsale,premium,118.8,118.8,high,low,4,namesilo,,,
+fc129177-16f5-4965-9bec-c5d6f13ae185,ruby.forsale,premium,123.75,123.75,medium,low,4,name.com,,,22/09/2026 22:32
 ec4ffc2a-8ff7-48de-ae23-ac91b68d07e4,kindof.forsale,available,19.99,,medium,low,7,name.com,,,
 1fc4b0ae-4fdd-4969-8ffb-fa1ca2ec6f66,fold.forsale,available,19.99,,high,low,4,name.com,,,
 f1538ca2-0699-45f5-91ef-84613b59fd28,ohmygosh.forsale,available,19.99,,high,low,8,name.com,,,
 857135ea-7d8e-43bc-864d-96db1d742a43,solution.forsale,available,19.99,,high,low,8,name.com,,,
 e6cc747c-b99f-44a5-b1fd-cad39f41444a,aplanatic.forsale,available,13.98,47.48,low,low,9,namecheap,,,06/08/2026 00:29
-09651a13-e106-49bf-aedd-21f970501ebe,network.forsale,resell,,,low,low,7,"Sav.com, LLC",27/08/2025 06:19,27/08/2027 06:19,19/09/2026 04:36
+09651a13-e106-49bf-aedd-21f970501ebe,network.forsale,resell,,,low,low,7,"Sav.com, LLC",27/08/2025 06:19,27/08/2027 06:19,23/09/2026 02:58
 f5204098-8e49-4b52-bd08-b6848175fa78,howto.forsale,available,19.99,,high,low,6,name.com,,,
 54837e0b-4df3-47cc-bf84-11e2af302c60,scatty.forsale,available,13.98,47.48,low,low,6,namecheap,,,
 8ce84199-4325-4eb4-890d-96b8482b4f3e,tile.forsale,premium,118.8,118.8,high,low,4,namesilo,,,
@@ -589,7 +589,7 @@ caf050a0-ad21-402a-8a0b-e561200d960a,wharf.forsale,available,19.99,,high,low,5,n
 2847c914-756a-4352-97c5-56a54032ce81,pad.forsale,premium,118.8,118.8,medium,low,3,namesilo,,,
 99777568-015f-4fe1-98e3-674d232d3adc,disco.forsale,available,19.99,,high,low,5,name.com,,,
 afe8f639-0fb3-4e70-bc21-06de3763bd90,sideways.forsale,available,19.99,52.99,high,low,8,name.com,,,
-f9ea3d0b-f536-4ccf-b633-9045cc9e38fe,load.forsale,available,19.99,52.99,high,low,4,name.com,,,
+f9ea3d0b-f536-4ccf-b633-9045cc9e38fe,load.forsale,available,13.98,47.48,low,low,4,namecheap,,,21/09/2026 20:07
 7f737e11-46bb-414e-8fad-78f0a9889d3a,aspirin.forsale,premium,118.8,118.8,high,medium,7,namesilo,,,
 72b3a0ec-8015-4580-8225-e3e81ba7620d,bringing.forsale,available,19.99,,medium,low,8,name.com,,,
 24ac7bff-5608-4be2-9a49-b95f3cba3e94,tercet.forsale,available,13.98,47.48,low,low,6,namecheap,,,
@@ -598,7 +598,7 @@ f9ea3d0b-f536-4ccf-b633-9045cc9e38fe,load.forsale,available,19.99,52.99,high,low
 b71612a9-a7ea-49d2-9316-5cc9c2263981,goodafternoon.forsale,available,19.99,,medium,low,14,name.com,,,
 8113ca1e-9d80-4ec2-a600-a79cb174eb49,sounded.forsale,available,19.99,,low,low,7,name.com,,,
 cd6422eb-a2a7-4ce2-b494-6246d1b39bba,atonic.forsale,available,13.98,47.48,low,low,6,namecheap,,,07/08/2026 13:54
-4e13cd71-c226-476b-b992-f3ffc65281e7,backwards.forsale,available,19.99,,high,low,9,name.com,,,
+4e13cd71-c226-476b-b992-f3ffc65281e7,backwards.forsale,available,16.99,36.99,low,low,9,namesilo,,,22/09/2026 15:55
 4d1fcb12-de77-43cf-805f-4c363b0a7726,antennary.forsale,available,13.98,47.48,low,low,9,namecheap,,,
 de36fe16-ec72-48d0-bcbd-5a738113f967,pressure.forsale,available,19.99,,high,low,8,name.com,,,
 fb650b11-82a7-46ed-a617-899591f33938,deepdown.forsale,available,19.99,,medium,low,9,name.com,,,
@@ -611,7 +611,7 @@ be9cf457-0d45-4388-9f50-7575f7bb3ad7,lxviii.forsale,available,13.98,47.48,low,lo
 087ded8d-910e-456c-98c8-f4cb834ccb8d,pointout.forsale,available,19.99,,medium,low,9,name.com,,,
 c2d6d7a0-9f3a-4bc6-818e-3c970d59257a,coach.forsale,available,19.99,,high,low,5,name.com,,,
 fcc6a1e0-0348-43f4-8082-29a170a31469,pizzashop.forsale,available,19.99,,high,low,10,name.com,,,
-8ad845de-3ea1-4ea4-b351-350ecc42ccbd,humble.forsale,available,19.99,,high,low,6,name.com,,,
+8ad845de-3ea1-4ea4-b351-350ecc42ccbd,humble.forsale,available,19.99,52.99,low,low,6,name.com,,,22/09/2026 17:44
 56407dac-ce9f-4d5e-bb92-c9e510b3beb5,treed.forsale,available,13.98,47.48,low,low,5,namecheap,,,07/08/2026 11:13
 408a9f0c-cd55-42e0-b130-2ad579287a01,bated.forsale,available,13.98,47.48,low,low,5,namecheap,,,09/08/2026 00:22
 97fb5e10-55d1-4bf0-8a3e-46c03c2f5288,owing.forsale,available,19.99,,low,low,5,name.com,,,
@@ -636,13 +636,13 @@ cb31b5a9-dff2-43f7-9fab-b3a06f634f96,sight.forsale,available,19.99,,high,low,5,n
 142e7318-27f0-4c55-ae1c-9d077f42a8cb,mac.forsale,available,,,high,low,3,,,,
 1329b448-b6a6-41de-a3b7-2568c992bad9,allocable.forsale,available,13.98,47.48,low,low,9,namecheap,,,
 443bd286-c78a-4ccc-a571-1ae17761d607,landscape.forsale,premium,118.8,118.8,high,low,9,namesilo,,,
-af2f8332-96bc-4dc6-a8d0-4947e410598b,bored.forsale,available,19.99,,medium,low,5,name.com,,,
+af2f8332-96bc-4dc6-a8d0-4947e410598b,bored.forsale,available,16.99,36.99,low,low,5,namesilo,,,23/09/2026 00:16
 f70de523-1e68-4435-b551-274728168ca1,expect.forsale,available,19.99,,high,low,6,name.com,,,
 2ae8647d-ee4f-4ca6-8141-3955c98ec73b,afghani.forsale,available,13.98,47.48,low,low,7,namecheap,,,
 cb021ea5-dfac-443a-a66b-304800bc5374,letterbox.forsale,available,19.99,,medium,low,10,name.com,,,
 517b2a22-e721-4372-b8db-536ab55afb51,mills.forsale,premium,123.75,,medium,low,5,name.com,,,
 48a46edd-7743-4d0b-806b-2e5a25e4c253,impression.forsale,available,19.99,,high,low,10,name.com,,,
-8a7642e6-ef0c-48fe-b37f-763a74fbd914,single.forsale,available,19.99,52.99,high,low,6,name.com,,,
+8a7642e6-ef0c-48fe-b37f-763a74fbd914,single.forsale,available,16.99,36.99,medium,low,6,namesilo,,,21/09/2026 10:43
 08043af8-8c5d-4156-a5b4-9912a28b089f,unitedkingdom.forsale,available,,,low,low,14,,,,
 a79d6ef8-ad7f-4a0f-80b4-524e0002d74f,pleaseexplain.forsale,available,19.99,,high,low,14,name.com,,,
 045c60ca-fe44-4c0c-bb31-6c4a56cf6c73,onehundred.forsale,available,19.99,,low,low,11,name.com,,,
@@ -659,7 +659,7 @@ bc01dd15-75ec-4634-8fd7-44569277ec76,warofwords.forsale,available,19.99,,low,low
 3bb3d133-815e-4ea2-8dd0-47a395c7af0c,timely.forsale,available,13.98,47.48,low,low,6,namecheap,,,06/08/2026 10:08
 76917519-2a5d-4ef6-84c4-21391d9e2c7a,squat.forsale,available,19.99,,high,low,5,name.com,,,
 a8fb1642-20ab-42cb-b58b-5df83fb4ec3e,manymoonsago.forsale,available,19.99,,medium,low,14,name.com,,,
-f05972a5-4ed1-4c3c-8a35-b40eca95719f,asteroid.forsale,available,19.99,,medium,low,8,name.com,,,
+f05972a5-4ed1-4c3c-8a35-b40eca95719f,asteroid.forsale,available,13.98,47.48,low,low,8,namecheap,,,22/09/2026 10:17
 f8ece037-25d4-4997-b80d-7d79e4f1732e,hotticket.forsale,available,19.99,,high,low,10,name.com,,,
 3bae8b66-e240-42aa-bd26-cdc3cbaea50f,thehardway.forsale,available,19.99,,low,low,12,name.com,,,
 51681d44-5d7b-4337-aded-7bd2aade22c9,electronic.forsale,premium,512,512,low,low,10,namesilo,,,19/09/2026 14:31
@@ -696,25 +696,24 @@ d52bea06-93c3-4e85-aee4-c7f6206f9d99,vitriolic.forsale,available,13.98,47.48,low
 4de4b4ec-1e34-42e2-9d92-a19d211de63e,greenparty.forsale,available,19.99,,medium,low,11,name.com,,,
 320a3d87-d18b-4e80-9d3f-80150d8f94c1,keeping.forsale,available,19.99,,high,low,7,name.com,,,
 04960148-093e-4c32-9bc5-55bfe6276a5c,fran.forsale,available,19.99,,medium,low,4,name.com,,,
-b61a16d4-b9b2-41bc-abce-3d226982bb08,equal.forsale,available,19.99,52.99,high,low,5,name.com,,,
+b61a16d4-b9b2-41bc-abce-3d226982bb08,equal.forsale,available,13.98,47.48,medium,low,5,namecheap,,,21/09/2026 18:27
 42db76e6-6424-419f-b927-9854b3372973,notions.forsale,available,19.99,,low,low,7,name.com,,,
 36adaeb6-afb0-4b80-9bc4-5bb3fcc59232,courses.forsale,available,19.99,,high,low,7,name.com,,,
 7ac2b506-58bb-47b2-9e5f-fd784cce199a,streetfighter.forsale,available,19.99,,low,low,14,name.com,,,
 d433b2df-6849-42c9-a83e-58dda3291a1d,nowornever.forsale,available,19.99,,low,low,12,name.com,,,
 0ef5863b-c0a1-4d4e-b6b7-f967f7462449,contented.forsale,available,19.99,52.99,high,low,9,name.com,,,
-28635bc4-d62a-4a37-b187-458e12d83304,blocked.forsale,available,19.99,,medium,low,7,name.com,,,
+28635bc4-d62a-4a37-b187-458e12d83304,blocked.forsale,available,13.98,47.48,low,low,7,namecheap,,,22/09/2026 22:08
 f7baf031-a61c-4afd-af7d-9117b8c3e94a,bucolic.forsale,available,13.98,47.48,low,low,7,namecheap,,,06/08/2026 14:14
 3c665c4e-5ee6-46ab-af7e-fde9f5413e10,rhiannon.forsale,available,19.99,,high,low,8,name.com,,,
 190b9122-8def-4c2d-b5e8-586ebdc7ecd4,scratched.forsale,available,19.99,,medium,low,9,name.com,,,
 e6d4e99e-2b81-42e4-b04b-2f4e79531553,loopy.forsale,available,13.98,47.48,low,low,5,namecheap,,,06/08/2026 21:22
 73c3224a-7321-4508-bd4b-47d8db83ebf9,tel.forsale,available,19.99,,medium,low,3,name.com,,,
 189fab69-f041-4603-8540-2fefeb7ad991,hairwax.forsale,available,19.99,,high,low,8,name.com,,,
-06f3a8bd-01d5-4412-ada1-27813bcca576,recognized.forsale,available,19.99,52.99,high,low,10,name.com,,,
+06f3a8bd-01d5-4412-ada1-27813bcca576,recognized.forsale,available,16.99,36.99,medium,low,10,namesilo,,,21/09/2026 15:28
 417c9df2-ddf4-421c-ae72-163efd95cbeb,opportunityroom.forsale,available,19.99,,high,low,16,name.com,,,
 54ee8f2a-c373-4df2-a330-76419ebd9904,folder.forsale,premium,123.75,,high,low,6,name.com,,,
 10d79404-b61c-4868-895f-2db03f199fab,rowingboat.forsale,available,19.99,,high,low,11,name.com,,,
 2b4282d8-9688-4503-861d-f1973b50ad2c,blackdiamond.forsale,available,19.99,,high,low,13,name.com,,,
-8d882f73-08c2-4642-ba34-289553cb9039,boss.forsale,available,,,high,high,4,,,,
 04789183-f4c7-487d-b349-12e864a21710,league.forsale,available,19.99,,medium,low,6,name.com,,,
 8ca0d6c8-e39d-4f5e-8648-d0990211c191,picked.forsale,available,19.99,,high,low,6,name.com,,,
 41710027-fbbc-40b7-8e27-ff3a62511b3b,prior.forsale,available,19.99,,medium,low,5,name.com,,,
@@ -738,11 +737,11 @@ f3deec06-7cc1-4aad-bedf-0b82b513b0a6,wig.forsale,premium,118.8,118.8,high,low,3,
 4343cab7-4b3f-4461-947f-71053a7e7be8,strawberry.forsale,available,19.99,,high,low,10,name.com,,,
 7ea14912-cda2-461e-914d-16c90a976e66,headteacher.forsale,available,19.99,,high,low,12,name.com,,,
 b26764f7-4739-4f51-94e0-fabb05c4d40e,yuck.forsale,available,19.99,,high,low,4,name.com,,,
-17821c63-1ef2-46a8-a4de-a5d45ab58fcb,esthetic.forsale,available,19.99,52.99,high,low,8,name.com,,,
+17821c63-1ef2-46a8-a4de-a5d45ab58fcb,esthetic.forsale,available,13.98,47.48,medium,low,8,namecheap,,,21/09/2026 21:16
 702cbfd5-40e5-4406-ab1f-5088f04cc625,blueberrypie.forsale,available,19.99,,medium,low,13,name.com,,,
 3220439b-eb2a-4d35-a5a5-6b41c92784fc,tahoe.forsale,premium,118.8,118.8,medium,low,5,namesilo,,,
 6e1724ad-3e08-4d40-a8ae-6e51414ebf20,knowing.forsale,available,19.99,,high,low,7,name.com,,,
-84349b06-12bb-448a-bfc8-f974a7339cc7,blind.forsale,available,19.99,,medium,low,5,name.com,,,
+84349b06-12bb-448a-bfc8-f974a7339cc7,blind.forsale,available,16.99,36.99,low,low,5,namesilo,,,22/09/2026 21:56
 d6202966-3bda-4913-8214-59776a1b35f7,guestchair.forsale,available,19.99,,medium,low,11,name.com,,,
 dad63913-5806-4800-9f93-a47c92ac04e4,nineteenth.forsale,available,,,high,low,10,,,,
 68c89cac-c961-4281-bb6c-0dd6fc051ddb,complement.forsale,available,19.99,,high,low,10,name.com,,,
@@ -755,9 +754,9 @@ a54517de-25b6-47ff-9e6b-b497fae9ad5a,wastebasket.forsale,available,19.99,,high,l
 431ec1cd-2d4c-4124-920f-35b8a3d0ab86,yesno.forsale,available,19.99,,low,low,6,name.com,,,
 3380f386-e6f4-40c3-9eb0-6782415f7b4f,aldermanic.forsale,available,13.98,47.48,low,low,10,namecheap,,,
 3c973546-1f67-4f1e-bb4e-0957220b3081,reasonably.forsale,available,19.99,,medium,low,10,name.com,,,
-ad90461e-bdcf-4b36-8a05-2fb3394feace,prenuptial.forsale,available,19.99,,high,low,10,name.com,,,
-deb88393-7b85-4fa3-8efe-f9adf63fab3a,proficient.forsale,available,19.99,52.99,high,low,10,name.com,,,
-e2b4b270-7785-4a45-a511-531f9d2edba2,investment.forsale,premium,128.7,128.7,medium,low,10,namecheap,,,19/09/2026 04:38
+ad90461e-bdcf-4b36-8a05-2fb3394feace,prenuptial.forsale,available,13.98,47.48,medium,low,10,namecheap,,,22/09/2026 06:05
+deb88393-7b85-4fa3-8efe-f9adf63fab3a,proficient.forsale,available,16.99,36.99,medium,low,10,namesilo,,,21/09/2026 17:23
+e2b4b270-7785-4a45-a511-531f9d2edba2,investment.forsale,premium,128.7,128.7,medium,low,10,namecheap,,,23/09/2026 02:53
 e4f819bb-678c-418e-9467-a6155e1e9c08,conflicted.forsale,available,19.99,,medium,low,10,name.com,,,
 216d7523-2ebf-4f1d-996a-beb4c0237cea,musiccenter.forsale,available,19.99,,high,low,12,name.com,,,
 3d14a87d-4052-451a-b505-34fbfee7ba0a,changes.forsale,available,19.99,,medium,low,7,name.com,,,
@@ -765,11 +764,11 @@ e4f819bb-678c-418e-9467-a6155e1e9c08,conflicted.forsale,available,19.99,,medium,
 179a80af-b419-4c09-83b6-17c03e69f76e,roast.forsale,available,19.99,,high,low,5,name.com,,,
 d4718c54-04a3-4c44-8b86-47bf1666af42,armada.forsale,available,19.99,,medium,low,6,name.com,,,
 8cf9a805-bcec-4f9e-82e6-b7a0dc837efb,injure.forsale,available,19.99,,medium,low,6,name.com,,,
-691e241e-ddb2-46d3-a507-b351b88b8ed6,dull.forsale,available,19.99,,medium,low,4,name.com,,,
+691e241e-ddb2-46d3-a507-b351b88b8ed6,dull.forsale,available,13.98,47.48,low,low,4,namecheap,,,23/09/2026 00:25
 a5261f3b-5241-41e3-9a62-384b731af0e4,accentual.forsale,available,13.98,47.48,low,low,9,namecheap,,,
 b7e35fd5-0469-470e-9644-7e1d97b61a42,construction.forsale,premium,520,520,medium,low,12,namecheap,,,
 1ffb367b-c9cc-43c1-b1f2-cd6a8bfe0f25,advective.forsale,available,13.98,47.48,low,low,9,namecheap,,,
-03ae0a28-4105-4ddc-abc7-9d4170a6d2c0,engrossed.forsale,available,19.99,52.99,high,low,9,name.com,,,
+03ae0a28-4105-4ddc-abc7-9d4170a6d2c0,engrossed.forsale,available,16.99,36.99,medium,low,9,namesilo,,,21/09/2026 15:00
 dc6ae4bf-093f-4725-a87b-64b727ebb5ce,happybirthday.forsale,available,19.99,,high,low,14,name.com,,,
 3d7c3e44-7292-41da-a80c-c186134ef81b,christalmighty.forsale,available,19.99,,high,low,15,name.com,,,
 fd03ebb3-795c-452e-8577-f0722140fa98,washing.forsale,available,19.99,,high,low,7,name.com,,,
@@ -790,14 +789,14 @@ a9b0de31-5d12-4b87-98a1-643a17ce2cfd,streetcleaner.forsale,available,19.99,,low,
 9b8ae26b-7450-465c-9493-00ff0e0fa206,proud.forsale,available,19.99,,high,low,5,name.com,,,
 2ecf844d-5751-46c4-a38f-df9586d67141,mouthy.forsale,available,19.99,,low,low,6,name.com,,,
 632fa1c2-d1a7-42af-b0a2-e8c67f268566,advocate.forsale,available,19.99,,high,low,8,name.com,,,
-ddc32fc3-fad0-4503-8d35-e4951e33ecc9,xiii.forsale,available,19.99,52.99,medium,low,4,name.com,,,
+ddc32fc3-fad0-4503-8d35-e4951e33ecc9,xiii.forsale,available,16.99,36.99,low,low,4,namesilo,,,21/09/2026 11:34
 477bc447-086e-4d99-894f-d332ed5c2cb6,creaky.forsale,available,13.98,47.48,low,low,6,namecheap,,,06/08/2026 22:59
 ff09f132-d432-4aa9-a7d4-7e20128af379,bewell.forsale,available,19.99,,high,low,7,name.com,,,
 8d277abd-d7c3-4134-868b-7e91551d666f,unitedstates.forsale,available,,,low,low,13,,,,
 9366db42-8294-4237-89de-327073f63863,affinity.forsale,available,,,high,low,8,,,,
 a288a870-96bf-4244-8d82-244d8be98aab,seattle.forsale,premium,1107,1107,high,low,7,namesilo,,,
 de55ce30-6562-4126-b070-9e63b4501520,normality.forsale,available,19.99,,high,low,9,name.com,,,
-e7a5cfb1-6445-4e0b-9718-aeb50d1af150,aboveabit.forsale,available,19.99,,medium,low,11,name.com,,,
+e7a5cfb1-6445-4e0b-9718-aeb50d1af150,aboveabit.forsale,available,19.99,,low,low,11,name.com,,,
 d6aaa053-9bcc-4cf5-88e9-93369d086f4e,played.forsale,available,19.99,,high,low,6,name.com,,,
 a55dc0e7-270a-4742-90fa-f421815cc448,muhfuggah.forsale,available,19.99,,medium,low,9,name.com,,,
 5342b1c2-5a96-47c0-8881-6d666e30c26f,allophonic.forsale,available,13.98,47.48,low,low,10,namecheap,,,
@@ -851,7 +850,7 @@ ab581e28-86ab-46ac-a66e-2ebc94fde761,sunburst.forsale,available,19.99,,high,low,
 301b6c0d-cb04-4bd2-b9df-b8b0d550dbfc,archosaur.forsale,available,13.98,47.48,low,low,9,namecheap,,,06/08/2026 15:57
 2347a5e9-f969-484b-81b1-550cbb9dbe37,premiere.forsale,premium,118.8,118.8,high,low,8,namesilo,,,
 d17f41c0-e5bc-4afd-870c-3230a5f968a3,andorran.forsale,available,13.98,47.48,low,low,8,namecheap,,,
-30d0736a-a3fb-48ef-98c6-201b6e50269f,amethyst.forsale,premium,118.8,118.8,medium,low,8,namesilo,,,
+30d0736a-a3fb-48ef-98c6-201b6e50269f,amethyst.forsale,premium,118.8,118.8,low,low,8,namesilo,,,22/09/2026 04:15
 e5cfb619-d8c0-4572-bc92-02012b780393,aslongas.forsale,available,19.99,,medium,low,10,name.com,,,
 cc1c49de-267d-4c99-8524-39f6d080274c,czechoslovakia.forsale,available,19.99,,medium,low,14,name.com,,,
 1567d43d-454e-4235-af60-b6b0472b25f2,apodeictic.forsale,available,13.98,47.48,low,low,10,namecheap,,,06/08/2026 01:36
@@ -862,7 +861,7 @@ d60a7402-01e7-4675-b4d3-c53676022959,giveback.forsale,available,19.99,,high,low,
 dae06852-0001-4336-bfd8-1e8160a44b4e,department.forsale,premium,118.8,118.8,high,low,10,namesilo,,,
 1d88d30c-230d-4901-8a39-e3011c4b5a74,assumed.forsale,available,13.98,47.48,low,low,7,namecheap,,,07/08/2026 07:45
 465a1ced-1211-4d42-9fd7-aa36d17251fd,acyclic.forsale,available,13.98,47.48,low,low,7,namecheap,,,
-4c677cb1-151f-4b42-908b-3cad4aaf2d3e,borderline.forsale,available,19.99,,high,low,10,name.com,,,
+4c677cb1-151f-4b42-908b-3cad4aaf2d3e,borderline.forsale,available,16.99,36.99,low,low,10,namesilo,,,23/09/2026 00:01
 109992fe-9d5d-4bd1-99e6-ff8d02c5883e,usually.forsale,available,19.99,,high,low,7,name.com,,,
 eb5401e2-09a7-4699-9e51-fdfb4bca37cb,giddy.forsale,available,13.98,47.48,low,low,5,namecheap,,,
 a7fc4093-1850-43f1-92b3-fa652b44d05e,knot.forsale,available,19.99,,high,low,4,name.com,,,
@@ -871,7 +870,7 @@ a7fc4093-1850-43f1-92b3-fa652b44d05e,knot.forsale,available,19.99,,high,low,4,na
 d55428d7-e4fc-4535-81f6-8a5364cec643,olympics.forsale,available,19.99,,medium,low,8,name.com,,,
 01093aad-8872-46a5-920d-c156ba693b4d,laura.forsale,available,19.99,,high,low,5,name.com,,,
 e438ef29-7865-4aa1-93b2-f251ca341cd6,curse.forsale,available,19.99,52.99,high,low,5,name.com,,,
-9d40a012-12c6-4968-b1a8-a59a18017b9b,indian.forsale,premium,118.8,118.8,high,low,6,namesilo,,,
+9d40a012-12c6-4968-b1a8-a59a18017b9b,indian.forsale,premium,118.8,118.8,low,low,6,namesilo,,,22/09/2026 04:13
 34aa6623-6762-4ec0-9275-ecf2db2bde2f,bucket.forsale,premium,118.8,118.8,medium,low,6,namesilo,,,
 975134e1-f58f-4078-8551-6fe82e44b421,need.forsale,available,19.99,,high,low,4,name.com,,,
 66762ee1-6cda-430e-bc07-7ee52531c441,octet.forsale,available,13.98,47.48,low,low,5,namecheap,,,
@@ -914,7 +913,7 @@ e0a6c2d1-17a4-41c2-9a71-5c4adcedcd6f,aftuh.forsale,available,19.99,,medium,low,5
 32835a81-62ac-4822-b6c6-eab20296b231,sumbuddy.forsale,available,19.99,,medium,low,8,name.com,,,
 3b8ec26e-b2e1-4d90-8970-c7e228ff5b55,bits.forsale,premium,118.8,118.8,medium,low,4,namesilo,,,
 b84c2c6b-d74e-490c-95bf-908464ff1c6c,roadsign.forsale,available,19.99,,medium,low,9,name.com,,,
-898dbb8a-f475-435f-8c01-68a7350245d1,bestknown.forsale,available,19.99,,high,low,10,name.com,,,
+898dbb8a-f475-435f-8c01-68a7350245d1,bestknown.forsale,available,13.98,47.48,medium,low,10,namecheap,,,22/09/2026 19:54
 4fc477e8-2035-4fdf-95ae-2b3e8f6e808b,bantering.forsale,available,13.98,47.48,low,low,9,namecheap,,,08/08/2026 14:34
 d936d40f-66a2-4496-853e-6f0a613a987b,inspiring.forsale,available,19.99,,high,low,9,name.com,,,
 3a23c5ac-15ba-415e-b686-10a947d75ff2,choir.forsale,available,19.99,,high,low,5,name.com,,,
@@ -929,7 +928,7 @@ e6eb4c06-23f0-44dd-abd9-389c2a90295f,sunday.forsale,available,19.99,,high,low,6,
 7f4cb6b0-e5fc-41b6-acdd-9ea9337d396f,crocodile.forsale,available,19.99,,high,low,9,name.com,,,
 16f1db24-dd80-4110-b612-aec24cf6ee98,vexation.forsale,available,13.98,47.48,low,low,8,namecheap,,,
 ba994d33-0476-4cac-b4e7-48c163fe20a1,invisible.forsale,available,19.99,,high,low,9,name.com,,,
-33ae6d3f-c8d2-43d3-a7f8-b356388a8d14,marchon.forsale,available,19.99,52.99,medium,low,8,name.com,,,
+33ae6d3f-c8d2-43d3-a7f8-b356388a8d14,marchon.forsale,available,13.98,47.48,low,low,8,namecheap,,,21/09/2026 20:39
 c2681a36-9517-4dcb-8c8e-6af32a80f4d9,emergency.forsale,available,19.99,,medium,low,9,name.com,,,
 48b6f259-fe4d-4c17-bcee-8a3caac6682c,texascity.forsale,available,19.99,,low,low,10,name.com,,,
 7d3fe54f-5f8e-4321-8f58-c049be2635af,super.forsale,premium,118.8,118.8,medium,medium,5,namesilo,,,
@@ -948,7 +947,7 @@ f91411ec-001f-4eb2-9b94-2421c9898dd2,wrongcrowd.forsale,available,19.99,,medium,
 29ade6c4-8020-4142-9b73-35332b64acdb,avenged.forsale,available,13.98,47.48,low,low,7,namecheap,,,07/08/2026 22:35
 4843439a-7208-4f8b-adeb-c9188ffc96f3,could.forsale,available,19.99,,high,low,5,name.com,,,
 9539003f-82f4-4b0e-bf7e-0c6e282f4a24,justyet.forsale,available,19.99,,medium,low,8,name.com,,,
-d662ed2e-0a17-4fe3-af6c-09ea313e276e,allright.forsale,available,19.99,52.99,medium,low,9,name.com,,,
+d662ed2e-0a17-4fe3-af6c-09ea313e276e,allright.forsale,available,13.98,47.48,low,low,9,namecheap,,,22/09/2026 01:00
 4b72ea11-6ef1-4d9c-9a6c-13f80dbfc284,backup.forsale,available,16.99,36.99,medium,low,6,namesilo,,,20/09/2026 03:14
 40acea90-2e22-4e9b-a9e6-b9822108bf1a,undisciplined.forsale,available,19.99,,medium,low,13,name.com,,,
 9481bda0-0a02-4491-a5cc-55d28985e8c5,coffeebreak.forsale,available,19.99,,high,low,12,name.com,,,
@@ -961,7 +960,7 @@ f71bde75-f59d-407b-872e-04498cc3d9b7,gross.forsale,available,19.99,52.99,medium,
 fc8a3697-3548-4bc4-9eb6-bfa49393b979,multiple.forsale,available,19.99,,high,low,8,name.com,,,
 d39c2ba2-27ea-411a-8d1f-4db908034fa5,quizbowl.forsale,available,19.99,,low,low,9,name.com,,,
 110e5a8f-c677-4755-bb22-aa53e6b036c4,unassuming.forsale,available,19.99,,high,low,10,name.com,,,
-d8c97070-5354-4769-a817-61dc753ca0bf,accomplished.forsale,available,19.99,,high,low,12,name.com,,,
+d8c97070-5354-4769-a817-61dc753ca0bf,accomplished.forsale,available,19.99,,medium,low,12,name.com,,,
 3ab379f1-1be0-4dd4-83bb-2542292c1b1e,goodfortune.forsale,available,19.99,,high,low,12,name.com,,,
 cee84c1f-d7ae-4e0a-8736-c3e7c3a575a0,apraxic.forsale,available,13.98,47.48,low,low,7,namecheap,,,06/08/2026 09:55
 eb5c6564-208f-4629-b8a4-dbb5d7f9d593,musiccentre.forsale,available,19.99,,high,low,12,name.com,,,
@@ -982,20 +981,21 @@ a1d07d86-4b9a-41e5-88c2-8a66d32038ac,increasing.forsale,available,19.99,,high,lo
 c1ef4dfa-241f-4023-926c-699bd57ee0b4,silent.forsale,available,19.99,,high,low,6,name.com,,,
 beb6b4f3-9a04-43d1-80c5-7ba5b164f733,asof.forsale,available,19.99,,medium,low,5,name.com,,,
 fdb4888a-bb7c-42cc-8aab-c869445d0783,armorial.forsale,available,13.98,47.48,low,low,8,namecheap,,,06/08/2026 20:15
-9bbddb7f-19b6-4191-94a2-468735da5f0e,tech.forsale,premium,512,512,medium,low,4,namesilo,,,20/09/2026 23:06
-b65f25c6-5a19-408c-b04a-71f4b12d2879,atheist.forsale,available,19.99,,high,low,7,name.com,,,
+9bbddb7f-19b6-4191-94a2-468735da5f0e,tech.forsale,premium,520,520,medium,low,4,namecheap,,,23/09/2026 02:37
+b65f25c6-5a19-408c-b04a-71f4b12d2879,atheist.forsale,available,13.98,47.48,low,low,7,namecheap,,,22/09/2026 10:58
 642af988-f525-40ea-a92b-522695b5aebc,barbarian.forsale,available,13.98,47.48,low,low,9,namecheap,,,08/08/2026 15:26
 5d551c35-2563-44c9-a713-43b08658270e,glassceiling.forsale,available,19.99,,medium,low,13,name.com,,,
 123640ae-2d88-4bf2-85fa-596155652810,idoubtit.forsale,available,19.99,,medium,low,10,name.com,,,
 eb859a07-aa96-4556-a53d-bf56144eb545,none.forsale,available,19.99,,high,low,4,name.com,,,
-6b8f1a7b-0876-464a-b724-4c6e8f30b05f,anticancer.forsale,available,19.99,,high,low,10,name.com,,,
+6b8f1a7b-0876-464a-b724-4c6e8f30b05f,anticancer.forsale,available,16.99,36.99,medium,low,10,namesilo,,,22/09/2026 06:38
 a930d468-91cb-426f-9e65-a47a66f802cc,yukongold.forsale,available,19.99,,medium,low,10,name.com,,,
 ceb682c1-0106-4232-97a2-3117782c1ce3,piss.forsale,available,19.99,,high,low,4,name.com,,,
 cafb0bba-7a1d-4883-8935-f0146f10d066,grandparent.forsale,available,16.99,36.99,medium,low,11,namesilo,,,19/09/2026 04:27
-8ab43777-2de5-4bb7-89a5-4c33f7be6e26,yard.forsale,available,19.99,52.99,high,low,4,name.com,,,
+8ab43777-2de5-4bb7-89a5-4c33f7be6e26,yard.forsale,available,16.99,36.99,medium,low,4,namesilo,,,21/09/2026 11:13
 84cc6ae3-9c37-4dcc-ac83-d4f961369198,alienated.forsale,available,13.98,47.48,low,low,9,namecheap,,,
 90e8e92e-247a-4e72-8645-4640afdfe080,longhaired.forsale,premium,82.5,,low,low,11,name.com,,,
 32a6cf80-752a-407a-a96f-1b5ad09d04d5,weird.forsale,premium,123.75,123.75,medium,low,5,name.com,,,
 5cc14238-a155-41d4-b7f5-0596f06b4380,proactive.forsale,available,19.99,,high,low,9,name.com,,,
 112d925a-0c2c-4e0e-82c6-959f5420c58f,jasmine.forsale,available,13.98,47.48,medium,low,7,namecheap,,,08/09/2026 14:04
 eaf7e502-d1d7-4496-955b-d02ccfb445e6,lifelesson.forsale,available,19.99,,high,low,11,name.com,,,
+16c131f2-138c-4c12-8005-d3f88d98fe2a,tried.forsale,available,19.99,,high,low,5,name.com,,,
