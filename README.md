@@ -1,10 +1,10 @@
-# Available .FORSALE One-Word Domains (26,722)
+# Available .FORSALE One-Word Domains (29,060)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-26%2C722%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C060%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .forsale one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **26,722 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **29,060 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 26,722 domains · **Median ask:** $37.19 · **High-demand under $2,500:** 9
+**Public extract:** 1,000 rows · **Live catalog:** 29,060 domains · **Median ask:** $36.56 · **High-demand under $2,500:** 10
 
-**Last updated:** 2026-09-29
+**Last updated:** 2026-09-30
 **Canonical page:** `https://unique.domains/domains/tld/forsale`
 **Best for:** founders, investors, studios
 
@@ -68,22 +68,22 @@ print(df.head())
 | bet.forsale  | resell    | —         | —             | high           | medium | 3      | Dynadot Inc |
 | any.forsale  | premium   | $71.40    | $71.40        | high           | medium | 3      | namesilo    |
 | beg.forsale  | available | $19.99    | —             | high           | low    | 3      | name.com    |
-| css.forsale  | premium   | $102.67   | $102.67       | high           | medium | 3      | spaceship   |
-| bin.forsale  | available | $16.99    | $36.99        | high           | low    | 3      | namesilo    |
 | ego.forsale  | premium   | $54.36    | $108.60       | high           | low    | 3      | porkbun     |
-| bpm.forsale  | available | $16.99    | $36.99        | high           | low    | 3      | namesilo    |
+| bin.forsale  | available | $16.99    | $36.99        | high           | low    | 3      | namesilo    |
 | fad.forsale  | premium   | $128.70   | $128.70       | high           | low    | 3      | namecheap   |
-| btu.forsale  | available | $16.99    | $36.99        | high           | low    | 3      | namesilo    |
+| bpm.forsale  | available | $16.99    | $36.99        | high           | low    | 3      | namesilo    |
 | leo.forsale  | premium   | $85.80    | $85.80        | high           | medium | 3      | namecheap   |
-| cao.forsale  | available | $13.98    | $47.48        | high           | low    | 3      | namecheap   |
+| btu.forsale  | available | $16.99    | $36.99        | high           | low    | 3      | namesilo    |
 | pod.forsale  | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo    |
-| cas.forsale  | available | $10.81    | $29.35        | high           | low    | 3      | porkbun     |
+| cao.forsale  | available | $13.98    | $47.48        | high           | low    | 3      | namecheap   |
 | tag.forsale  | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo    |
 | dip.forsale  | available | $16.99    | $36.99        | high           | low    | 3      | namesilo    |
-| ants.forsale | premium   | $102.67   | $102.67       | medium         | low    | 4      | spaceship   |
-| dis.forsale  | available | $16.99    | $36.99        | high           | low    | 3      | namesilo    |
 | bees.forsale | premium   | $85.80    | $85.80        | high           | low    | 4      | namecheap   |
 | eeg.forsale  | available | $12.62    | $29.18        | high           | low    | 3      | spaceship   |
+| bits.forsale | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo    |
+| fte.forsale  | available | $10.81    | $29.35        | high           | low    | 3      | porkbun     |
+| boys.forsale | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo    |
+| git.forsale  | available | $13.98    | $47.48        | high           | medium | 3      | namecheap   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 26,722 live domains                        |
+| 1,000-row public sample | 29,060 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 9 high-demand names under $2,500           |
+| Basic exported fields   | 10 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FORSALE One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FORSALE One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
